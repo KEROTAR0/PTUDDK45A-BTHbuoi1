@@ -1,0 +1,13 @@
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\bin\Debug\2.BTTKForm.exe.config
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\bin\Debug\2.BTTKForm.exe
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\bin\Debug\2.BTTKForm.pdb
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.AssemblyReference.cache
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\_2.BTTKForm.Bai1.resources
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\_2.BTTKForm.formChinh.resources
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\_2.BTTKForm.Properties.Resources.resources
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.GenerateResource.cache
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.csproj.CoreCompileInputs.cache
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.exe
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\2.BTTKForm.pdb
+C:\Users\Buro\Documents\vscode\2.BTTKForm\2.BTTKForm\obj\Debug\_2.BTTKForm.Bai2.resources
